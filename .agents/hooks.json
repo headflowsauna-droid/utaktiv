@@ -1,0 +1,12 @@
+{
+  "typescript-quality-gate": {
+    "enabled": true,
+    "Stop": [
+      {
+        "type": "command",
+        "command": "python3 ./hooks/verify-build.py",
+        "timeout": 30
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Build outputs
+dist/
+dist-ssr/
+build/
+*.local
+
+# Environment & Secrets (STRICT - NEVER COMMIT)
+.env
+.env*.local
+.env.production
+.env.staging
+*.keystore
+*.jks
+*.p8
+*.p12
+*.pem
+
+# Retain template only
+!.env.example
+
+# OS / Editor artifacts
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Large media & binary archives
+*.mp4
+*.mov
+*.avi
+*.zip
+*.tar
+*.gz
+release/
+*.apk
+*.aab
+*.idsig
+
+# Native build artifacts
+android/app/build/
+android/.gradle/
+android/build/
+android/local.properties
+android/release.keystore
+android/assets/
+ios/App/Pods/
+ios/App/build/
+ios/App/App/public/
+
+# Logs & temp
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.temp/

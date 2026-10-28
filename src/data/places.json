@@ -1,0 +1,140 @@
+{
+  "places": [
+    {
+      "id": "act-nordnes-sjobad",
+      "name": "Nordnes Sjøbad",
+      "cityId": "bergen",
+      "lat": 60.3998,
+      "lng": 5.3045,
+      "categories": ["outdoor_bath", "sauna"],
+      "indoor": false,
+      "outdoor": true,
+      "seasons": ["all_year"],
+      "openingHours": {
+        "weekly": [
+          { "day": 1, "open": "07:00", "close": "20:00" },
+          { "day": 2, "open": "07:00", "close": "20:00" },
+          { "day": 3, "open": "07:00", "close": "20:00" },
+          { "day": 4, "open": "07:00", "close": "20:00" },
+          { "day": 5, "open": "07:00", "close": "20:00" },
+          { "day": 6, "open": "09:00", "close": "18:00" },
+          { "day": 0, "open": "09:00", "close": "18:00" }
+        ]
+      },
+      "url": "https://nordnessjobad.no/apningstider/",
+      "source": "Nordnes Sjøbad / AdO Arena",
+      "verifiedAt": "2026-10-24"
+    },
+    {
+      "id": "act-ado-arena",
+      "name": "AdO Arena",
+      "cityId": "bergen",
+      "lat": 60.3861,
+      "lng": 5.3402,
+      "categories": ["other"],
+      "indoor": true,
+      "outdoor": false,
+      "seasons": ["all_year"],
+      "openingHours": {
+        "weekly": [
+          { "day": 1, "open": "06:15", "close": "21:00" },
+          { "day": 2, "open": "06:15", "close": "21:00" },
+          { "day": 3, "open": "06:15", "close": "21:00" },
+          { "day": 4, "open": "06:15", "close": "21:00" },
+          { "day": 5, "open": "06:15", "close": "21:00" },
+          { "day": 6, "open": "09:00", "close": "18:00" },
+          { "day": 0, "open": "09:00", "close": "18:00" }
+        ]
+      },
+      "url": "https://adoarena.no",
+      "source": "AdO Arena",
+      "verifiedAt": "2026-10-24"
+    },
+    {
+      "id": "act-eikedalen-ski",
+      "name": "Eikedalen Skisenter",
+      "cityId": "bergen",
+      "lat": 60.3925,
+      "lng": 5.9102,
+      "categories": ["alpine"],
+      "indoor": false,
+      "outdoor": true,
+      "seasons": ["winter"],
+      "openingHours": {
+        "weekly": [
+          { "day": 1, "open": "09:30", "close": "16:30" },
+          { "day": 2, "open": "09:30", "close": "20:30" },
+          { "day": 3, "open": "09:30", "close": "20:30" },
+          { "day": 4, "open": "09:30", "close": "20:30" },
+          { "day": 5, "open": "09:30", "close": "20:30" },
+          { "day": 6, "open": "09:30", "close": "16:30" },
+          { "day": 0, "open": "09:30", "close": "16:30" }
+        ],
+        "seasonRange": { "from": "12-01", "to": "04-15" }
+      },
+      "url": "https://eikedalen.no",
+      "source": "Eikedalen Skisenter",
+      "verifiedAt": "2026-10-24"
+    },
+    {
+      "id": "act-sorenga-oslo",
+      "name": "Sørenga Sjøbad & Fjordbadstue",
+      "cityId": "oslo",
+      "lat": 59.9015,
+      "lng": 10.7512,
+      "categories": ["outdoor_bath", "sauna"],
+      "indoor": false,
+      "outdoor": true,
+      "seasons": ["all_year"],
+      "url": "https://www.oslo.kommune.no/natur-kultur-og-fritid/tur-og-friluftsliv/badeplasser/sorenga-sjobad/",
+      "source": "Oslo Kommune",
+      "verifiedAt": "2026-10-24"
+    },
+    {
+      "id": "act-keiservarden-bodo",
+      "name": "Keiservarden & Turisthytta",
+      "cityId": "bodo",
+      "lat": 67.3112,
+      "lng": 14.4512,
+      "categories": ["hike", "cafe"],
+      "indoor": false,
+      "outdoor": true,
+      "seasons": ["all_year"],
+      "url": "https://ut.no",
+      "source": "DNT Bodø og Omegn Turistforening",
+      "verifiedAt": "2026-10-24"
+    }
+  ],
+  "deals": [
+    {
+      "id": "deal-heit-bergen",
+      "partnerId": "partner-heit",
+      "placeId": "act-vidden-bergen",
+      "title": "Sol- og Ettermiddagspakke: Heit Sauna & Fjordbad",
+      "priceNok": 195,
+      "originalPriceNok": 245,
+      "validFrom": "2026-01-01",
+      "validTo": "2027-12-31"
+    },
+    {
+      "id": "deal-pust-bodo",
+      "partnerId": "partner-pust-bodo",
+      "placeId": "act-keiservarden-bodo",
+      "title": "Etter-turen: Pust Fjordbadstue Bodø Havn",
+      "priceNok": 185,
+      "originalPriceNok": 225,
+      "validFrom": "2026-01-01",
+      "validTo": "2027-12-31"
+    },
+    {
+      "id": "deal-havet-trondheim",
+      "partnerId": "partner-havet-trondheim",
+      "placeId": "act-bymarka-trondheim",
+      "title": "Bymarka + Havet Arena Fjordbadstue",
+      "priceNok": 190,
+      "originalPriceNok": 235,
+      "validFrom": "2026-01-01",
+      "validTo": "2027-12-31"
+    }
+  ]
+}

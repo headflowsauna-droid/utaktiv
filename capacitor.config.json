@@ -1,0 +1,8 @@
+{
+  "appId": "no.utaktiv.app",
+  "appName": "Utaktiv",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
