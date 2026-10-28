@@ -3,7 +3,7 @@
 **Prosjekt:** Utaktiv (`/Users/alexr/Projects/Sol-Uteliv`)  
 **Eier & Fagleder:** Alexander Robertsen  
 **Valuta:** Sol-Poeng (Sirkadisk opplevelsesvaluta)  
-**Vekslingskurs ved innløsning:** `10 Sol-poeng = 1 NOK`  
+**Vekslingskurs ved innløsning:** `1 Sol-poeng = 1 NOK` (fast 1:1 kurs)  
 
 ---
 
@@ -34,12 +34,12 @@ Systemet kombinerer fire kraftige mekanismer for å få folk ut:
 
 ## 3. Poengpakker (Top-up)
 
-| Pakke | Pris (NOK) | Basenivå | Bonus | Totale poeng | Effektiv rabatt |
+| Pakke | Pris (NOK) | Basenivå | Bonus | Totale poeng | Effektiv verdi |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Nabolags-Spire** | 50 NOK | 500 p | 0 | **500 p** | Ordinær |
-| **Aktiv Familiehelg** | 100 NOK | 1 000 p | +200 p | **1 200 p** | **+20 % verdi** |
-| **Storsponsor / Besteforeldre** | 250 NOK | 2 500 p | +500 p | **3 000 p** | **+20 % verdi** |
-| **Festival & Sesongpott** | 500 NOK | 5 000 p | +1 500 p | **6 500 p** | **+30 % verdi** |
+| **Nabolags-Spire** | 100 NOK | 100 p | 0 | **100 p** | 1:1 (100 kr verdi) |
+| **Aktiv Familiehelg** | 250 NOK | 250 p | +10 p | **260 p** | **260 kr verdi** |
+| **Storsponsor / Familiepakke** | 500 NOK | 500 p | +20 p | **520 p** | **520 kr verdi** |
+| **Besteforeldre & Sesongpott** | 1 000 NOK | 1 000 p | +50 p | **1 050 p** | **1 050 kr verdi** |
 
 ---
 

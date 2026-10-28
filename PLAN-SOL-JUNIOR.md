@@ -42,7 +42,7 @@ Når et barn tar på seg en oppgave, tjener de på **to kilder samtidig**:
      $$\text{Bonuspoeng} = \text{Arbeidstid (min)} \times \left(\frac{\text{Luks}}{10\,000}\right) \times (1 + \text{UV} \times 0.25)$$
    - *Eksempel:* 45 minutter plenklipp i Bergen på en solskinnsdag med 40 000 luks og UV 4:
      $$\text{Bonus} = 45 \times 4 \times (1 + 1.0) = 360\text{ ekstra Sol-Kreditt}$$
-   - Barnet sitter igjen med **1500 kr-poeng + 360 UV-dagslyspoeng = 1860 poeng!**
+   - Barnet sitter igjen med **150 kr-poeng + 36 dagslyspoeng = 186 poeng (verdi 186 kr)!**
 
 ### B. Oppgavekatalogen
 | Kategori | Typiske oppgaver | Sesong | Dagslyspotensial |
@@ -86,10 +86,10 @@ Dette skaper en **dobbel provisjonsmotor** for selskapet og stiftelsen:
          │
          ├──▶ 10 % Trygghets- & Formidlingsgebyr (15 kr) ──▶ [SOL UTELIV DRIFT & STIFTELSE]
          │
-         └──▶ 135 kr (1350 poeng) krediteres barnet
+         └──▶ 135 kr (135 poeng, 1:1 kurs) krediteres barnet
                    │
                    ▼
-         [Barnet bruker 1350 poeng i Sol-butikken]
+         [Barnet bruker 135 poeng i Sol-butikken]
          Kjøper f.eks. billett til Høyt & Lavt Klatrepark (360 kr)
                    │
                    ▼

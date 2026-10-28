@@ -3,7 +3,7 @@
 
 **Selskap:** Utaktiv AS (under stiftelse / `/Users/alexr/Projects/Sol-Uteliv`)  
 **Gründer & Fagleder:** Alexander Robertsen (Master i pedagogikk, samfunnsdebattant, forfatter)  
-**Valuta:** Luks-poeng (`10 Luks-poeng = 1 NOK`)  
+**Valuta:** Sol-poeng (`1 Sol-poeng = 1 NOK` — fast 1:1 kurs)  
 **Kapitalbehov Pre-Seed:** **300 000 – 500 000 NOK**  
 **Giring:** Matches 1:1 med Innovasjon Norge (oppstartstilskudd) og Sparebankstiftelsen Vest  
 
@@ -17,7 +17,7 @@ Norske barn og unge befinner seg i en dyp biologisk og sosial krise:
 - **Tapte nabolagsbånd:** Barna kjenner ikke naboene i gaten. Eldre og travle naboer mangler rimelig hjelp til snømåking, hagearbeid og hundepass.
 
 **Løsningen:** Vi tar de mest engasjerende mekanismene fra moderne teknologi (mobilapp, Vipps, spillmekanikk) og snur dem 180 grader rundt — for å gjenreise den analoge, sunne barndommen:
-1. **Barna jobber for pengene:** Naboer og familie bestiller enkle oppdrag (snømåking, løvraking, hundepass) og betaler i **Luks-poeng (1 poeng = 1 kr)**.
+1. **Barna jobber for pengene:** Naboer og familie bestiller enkle oppdrag (snømåking, løvraking, hundepass) og betaler i **Sol-poeng (1 poeng = 1 kr)**.
 2. **Dagslys belønnes i sanntid:** Telefonens lyssensor måler luks. Utearbeid gir automatisk en ekstra dagslys-bonus finansiert av samarbeidspartnere.
 3. **100 % opplevelseslåst:** Poengene kan **aldri** sløses på skjerm eller plast. De spares til felles opplevelser (klatreparker, DNT-hytter, ski, kino) eller «Barnets Valg», der barnet spanderer og leder helgeturen for hele familien.
 
@@ -29,7 +29,7 @@ Selskapet er designet for tidlig, positiv kontantstrøm og høy kapitaleffektivi
 
 | Inntektskilde | Mekanisme | Forretningsmessig verdi |
 | :--- | :--- | :--- |
-| **1. Arbeidskapital & Float** | *«Starbucks-modellen»*: Naboer, besteforeldre og bedrifter kjøper gavekort og fyller på luks-poeng via Vipps. | **100 % forhåndsbetalt likviditet** på selskapets driftskonto i uker og måneder før innløsning. Renteinntekter på float. |
+| **1. Arbeidskapital & Float** | *«Starbucks-modellen»*: Naboer, besteforeldre og bedrifter kjøper gavekort og fyller på Sol-poeng via Vipps (1 kr = 1 poeng). | **100 % forhåndsbetalt likviditet** på selskapets driftskonto i uker og måneder før innløsning. Renteinntekter på float. |
 | **2. Breakage (Ubenyttet saldo)** | Historisk empiri fra gavekortbransjen viser at 10–15 % av utstedte poeng aldri løses inn. | **100 % ren margin** uten noen motytelse for ubenyttede restbeløp. |
 | **3. Dobbel Formidlings-Take-Rate** | • **8–10 % plattformgebyr** på nabolagshjelp (dekker Vipps og deponi).<br>• **5–10 % affiliate-kickback** fra opplevelsespartnere (Høyt & Lavt, Bergen Live, DNT, kino) ved innløsning. | Løpende transaksjonsinntekter i begge ender av kretsløpet. |
 | **4. Dagslyssponsing & Folkehelse** | Kommuner, sparebanker og næringsliv sponser dagslyspotten som forebyggende folkehelsetiltak. | Forutsigbare B2B- og stiftelsesinntekter. |
